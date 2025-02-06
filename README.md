@@ -4,3 +4,4 @@ Bu proje, Python kullanılarak geliştirilmiş basit bir dijital saat uygulamas�
 ✔ Gerçek zamanlı saat, dakika ve saniye güncellemesi  
 
 ## 1️⃣ **Python'u Yükleyin (Eğer Yüklü Değilse)**  
+Python 3.x sürümünün yüklü olduğundan emin olun.
